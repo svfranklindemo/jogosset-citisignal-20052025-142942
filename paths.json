@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/jogosset/Projects/:/",
+      "/content/jogosset/Projects/configuration:/.helix/config.json",
+      "/content/jogosset/Projects/metadata:/metadata.json",
+      "/content/jogosset/Projects/configs:/configs.json",
+      "/content/jogosset/Projects/configs-stage:/configs-stage.json",
+      "/content/jogosset/Projects/configs-dev:/configs-dev.json",
+      "/content/jogosset/Projects/redirects:/redirects.json",
+      "/content/jogosset/Projects/placeholders:/placeholders.json",
+      "/content/jogosset/Projects/products/recommended-products:/products/recommended-products.json",
+      "/content/jogosset/Projects/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/jogosset/Projects/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/jogosset/Projects",
       "/content/dam/citisignal/images/products/"
     ]
 }
